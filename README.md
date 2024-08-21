@@ -16,9 +16,7 @@ car image
 ![images-removebg-preview (2)](https://github.com/user-attachments/assets/887fc85e-06b8-4326-a7e6-22d5088a6a84)
 ![images-removebg-preview (3)](https://github.com/user-attachments/assets/1e76344d-dd24-4fe8-bb58-6a2d20cce81f)
 ![images-removebg-preview (4)](https://github.com/user-attachments/assets/9a62502d-869a-4ceb-9b29-86614dbbb10a)
-![images-removebg-preview (5)](https://github.com/user-attachments/assets/1786dd69-5b54-4697-8da5-980bed96a04d)
-![images-removebg-preview (6)](https://github.com/user-attachments/assets/a89a26e5-10f4-415b-b435-40ee9531bc01)
-![images-removebg-preview (7)](https://github.com/user-attachments/assets/5788010b-fcc5-4670-9439-adce65266648)
+
 
 
 
