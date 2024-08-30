@@ -31,4 +31,8 @@ https://github.com/user-attachments/assets/33631ce5-14e5-4cb8-bd26-89fc84f54fb6
 https://github.com/user-attachments/assets/3b31e87c-2dac-4440-a0ce-11ec11fd763f
 https://github.com/user-attachments/assets/0ab861a1-1a04-40c4-b69e-86d12e6845e4
 https://github.com/user-attachments/assets/4d76961f-a031-44ff-b0fb-5fe4c1622abd
-
+bank icon
+![visa](https://github.com/user-attachments/assets/3a3adfad-adcf-4fac-87c1-f2a513b358c2)
+![mastercard](https://github.com/user-attachments/assets/576efced-a04c-4e29-b626-35c63cad1cd8)
+![americanExpress](https://github.com/user-attachments/assets/feedf865-9a8b-42d9-92ed-ad9132dcad69)
+![paypal](https://github.com/user-attachments/assets/e911ef19-5358-4e1a-be48-102a1e4a8468)
